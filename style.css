@@ -1,0 +1,12 @@
+/*
+Theme Name: My ThemeTheme
+Template: kontrast
+*/
+
+@import url(../kontrast/style.css);
+
+.group h2{ 
+    border: 2px solid #181818;
+}
+
+
